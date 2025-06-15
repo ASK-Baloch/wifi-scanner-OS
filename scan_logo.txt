@@ -1,0 +1,10 @@
+
+Scanning for nearby Wi-Fi networks...
+
+SSID               SIGNAL  BARS  SECURITY
+Baloch-WIFI         85      ▂▄▆█    WPA2
+ahmednote10plus     60      ▂▄▆_    WPA2
+smwlegacy           40      ▂▄__    WPA
+doners              25      ▂_      --
+
+
