@@ -12,3 +12,9 @@ This project is a Bash-based CLI tool that uses nmcli to scan for nearby Wi-Fi n
 ```bash
 chmod +x wifi_scanner.sh
 ./wifi_scanner.sh
+
+
+## Images
+![IMAGE1](img1)
+![IMAGE2](img2)
+
